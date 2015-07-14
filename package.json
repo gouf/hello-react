@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "cjsx-loader": "^2.0.1",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.9.3",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.10.1"
+  }
 }
