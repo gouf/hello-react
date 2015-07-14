@@ -5,4 +5,4 @@ Hello = React.createClass(
     <div>Hello</div>
 )
 
-React.renderComponent(<Hello />, document.getElementById('component'))
+React.render(<Hello />, document.getElementById('component'))
